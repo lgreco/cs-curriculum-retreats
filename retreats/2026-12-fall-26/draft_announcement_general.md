@@ -2,6 +2,8 @@ Hello everyone.
 
 Please **save the date** for the Fall 2026 Curriculum Retreat. We'll meet, on campus, on **Wednesday, December 10** from 10 AM to 3 PM to discuss instructional operations and strategy.
 
+The success of this retreat is really up to all of us. Whether it's a reflection, a topic for the agenda, or a reading to add to the list, your contribution is what will make the conversation worth having. And it's a conversation worth having because it may well affect the future of our discipline, and indeed of our department's survival as an independent unit.
+
 As this will be our tenth retreat, it feels like the right moment to take on an existential question: what our programs should become as AI reshapes the discipline and the professions we prepare students for.
 
 It comes as no surprise that this retreat will focus heavily on the impact of AI on the future of CS education. Countless CS departments face the same uncertainty about the future of their programs as we do, and they are trying to secure a safe place for them in the future ahead.
