@@ -1,9 +1,9 @@
 # Fall 2026 Curriculum Retreat
 
-  Wednesday, December 9, 2026
-  10 AM - 3 PM
-  Location: LSC, tbd
-  *Department business meeting 9-10 AM, f/t personnel*
+  Wednesday, December 9, 2026</br>
+  10 AM - 3 PM</br>
+  Location: LSC, tbd</br>
+  *Department business meeting 9-10 AM, f/t personnel*</br>
   
 
 ## Readings
