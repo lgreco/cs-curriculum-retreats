@@ -1,5 +1,11 @@
 # Fall 2026 Curriculum Retreat
 
+  Wednesday, December 9, 2026
+  10 AM - 3 PM
+  Location: LSC, tbd
+  *Department business meeting 9-10 AM, f/t personnel*
+  
+
 ## Readings
 
 * [Sakellaridis, Y. (2026, October 21). *Paralysis.* Proofs and Prompts.](https://proofsandprompts.com/2026/10/21/artificial-intelligence-and-the-mathematical-community/) 
