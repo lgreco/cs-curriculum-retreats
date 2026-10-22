@@ -5,7 +5,7 @@ repo-wide guidance.
 
 ## This retreat
 
-- Date: Wednesday, December 10, 2026, 10 AM–3 PM, on campus.
+- Date: Wednesday, December 9, 2026, 10 AM–3 PM, on campus.
 - Theme: the impact of AI on the future of CS education, with a focus on
   classroom fundamentals (caring for students, soft skills, foundational
   understanding of the discipline) rather than AI-specific solutions.
