@@ -33,3 +33,7 @@
 * Sabani, A., Farah, M. H., Catyanadika, P. E., Dewi, D. R. S., & Tawani, V. (2026). [Rewriting the curriculum: A systematic review of generative AI-driven pedagogical change and emerging systems of learning in higher education](https://doi.org/10.1016/j.caeai.2026.100667). Computers and Education: Artificial Intelligence, 11, 100667.
 
   This is a more comprehensive look at how curricula should be redesigned in the context of AI. It's a long read, and I suggest reading primarily the Abstract and Introduction, and then Sections 4 & 5.  *(Offered by Bob Yacobellis)*
+
+* Lovett, N. (2026). [The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise](https://doi.org/10.1177/15344843261470602). Human Resource Development Review. Advance online publication. 
+
+Lovett argues that widespread AI adoption threatens the collective regeneration of professional expertise. As organizations automate entry-level cognitive work, they eliminate opportunities through which novices develop the deep knowledge necessary to evaluate AI outputs. This creates a “tragedy of the cognitive commons”: individually rational efficiency gains collectively undermine the expertise upon which AI systems depend. Particularly relevant to computer science education, the paper challenges institutions to preserve pathways toward independent mastery rather than merely teaching students to operate AI tools. *(Offered by Leo Irakliotis)*
