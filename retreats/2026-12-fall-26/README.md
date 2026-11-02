@@ -1,9 +1,80 @@
 # Fall 2026 Curriculum Retreat
 
   Wednesday, December 9, 2026</br>
-  10 AM - 3 PM</br>
+  9 AM - 3 PM</br>
   Location: LSC, tbd</br>
-  *Department business meeting 9-10 AM, f/t personnel*</br>
+
+>  *Separate, colocated work session on AI proposals for the Provost's initiative (proposal personnel only), 3-4 PM*</br>
+
+**This is an on-site only meeting.** The entire retreat is open to any teaching member of the department, full or part time.
+
+*Draft agenda for discussion. Times are placeholders. Suggestions for topics are welcome as long as they are within this retreat's purpose and scope.*
+
+## Purpose and Scope
+
+Decide what we **stop teaching** and what we **start teaching**, so that our programs
+stay worth choosing as AI changes the discipline. The question is less about how
+courses are arranged than about which content has run its course and which new
+content earns a place. Course structure follows from those choices.
+
+## How we'll work together
+
+1. **No deficit language.** Talk about what students, colleagues, courses and the
+   department *have, need, and can build*, not what they lack.
+   - Deficit: "Students can't program anymore." / "Our intro courses are obsolete." /
+     "Some of us haven't adapted." / "We're behind."
+   - Instead: "I'm seeing students submit code they can't explain; I'd like us to
+     build in ways to check understanding." / "This course taught X well, and Y now
+     needs room." / "I'd like support learning Z."
+2. **Describe, don't diagnose.** Say what you observed in your classroom, and label
+   it as observation, evidence, or hunch. Avoid attributing motives or
+   competence to people.
+3. **Courses are not people.** Retiring content is not a verdict on whoever built or
+   teaches it. Everything in the curriculum was the right answer to an earlier
+   question, and we honor that while changing it.
+4. **Assume good intent, ask before you assume.** "Help me understand what you mean"
+   comes before disagreement.
+5. **Strawpersons are meant to be improved.** Proposals on the table (including the
+   "kernel, then layers" draft) are starting points. Critique should come with an
+   alternative or a question.
+6. **"Yes, and" before "yes, but."** Build first, then refine.
+7. **Candid thoughts stay in the room.** Half-formed ideas are welcome; attribute
+   nothing outside the retreat without the speaker's permission.
+8. **Explore vs. decide is stated out loud.** Each session says whether we are
+   brainstorming or reaching a recommendation. Nothing is final until it goes
+   through our normal governance.
+9. **Everyone's voice, including the quiet ones.** Pause for written or
+   round-robin input before open discussion; watch airtime.
+10. **Parking lot.** Good ideas outside the current session go on the list
+    instead of derailing the conversation.
+
+## Outline
+
+| Time | Block | Mode |
+|---|---|---|
+| 9:00 – 9:20 | **Welcome, purpose, ground rules** — walk through the rules above; agree to them or amend them | Frame |
+| 9:20 – 9:50 | **Shared starting point** — a short, evidence-labeled premise presented to the group (enrollment and labor-market signals, drawn from the enrollments work) and a digest of attendee reflections | Inform |
+| 9:50 – 10:00 | Break | |
+| 10:00 – 11:15 | **Session 1: What we let go** — content audit, starting with the foundational sequence (141, 163, 170, 264, 271, 272, 363), then downstream effects. For each course: what is retired, compressed, or moved? What must students still do without AI, and why? | Decide (recommend) |
+| 11:15 – 12:30 | **Session 2: What we bring in** — new content to introduce (e.g., reading/evaluating/verifying code, specification and testing, security, system architecture, judgment about tool output, soft skills). Where does each live, and what does it displace? | Decide (recommend) |
+| 12:30 – 1:15 | **Working lunch: reflections** — eat while discussing attendee reflections (the five reflection areas), including anything the morning sessions raised | Explore |
+| 1:15 – 2:15 | **Session 3: A structure that carries it** — only now test the "kernel, then layers" strawperson (lean foundation, 272 vs. proposed 280, CS/SE merger, breadth areas, 300/400 streamlining) against the content decisions from Sessions 1 and 2 | Explore |
+| 2:15 – 2:45 | **Session 4: Commitments** — what we recommend, who owns follow-up, what support is needed (time, training, tools), what goes to the broader department | Decide |
+| 2:45 – 3:00 | Close: what we heard, what's next, appreciation | Close |
+
+## Session notes
+
+**Session 1 working product:** a one-page table per foundational course: *keep /
+compress / retire / move* for each major topic, with a one-line rationale.
+
+**Session 2 working product:** a list of new content candidates, each with a
+proposed home (course or layer), what it replaces, and what faculty support it needs.
+
+**Pre-work (from the announcement):** every attendee is asked to prepare a reflection
+(see the five reflection areas in the announcement). This is the most important
+preparation for the day: the 9:20 digest and Sessions 1 and 2 are built from
+everyone's classroom experience. Reflections are due Monday, December 7; extra agenda
+items and readings are due Wednesday, December 2.
 
 
 ## Readings

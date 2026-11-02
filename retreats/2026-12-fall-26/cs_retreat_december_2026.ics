@@ -27,7 +27,7 @@ DTSTART;TZID=America/Chicago:20261209T090000
 DTEND;TZID=America/Chicago:20261209T150000
 SUMMARY:CS Curriculum Retreat - Fall 2026
 LOCATION:TBD
-DESCRIPTION:Department FT Faculty meeting 9-10 AM\; retreat 10 AM - 3 PM
+DESCRIPTION:Retreat 9 AM - 3 PM. Separate\, colocated work session on AI proposals for the Provost's initiative (proposal personnel only) 3-4 PM
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

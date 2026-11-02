@@ -5,7 +5,15 @@ repo-wide guidance.
 
 ## This retreat
 
-- Date: Wednesday, December 9, 2026, 10 AM–3 PM, on campus. This is the
+- Date: Wednesday, December 9, 2026, 9 AM–3 PM, on campus, followed by a
+  separate, colocated 3–4 PM work session, limited to proposal personnel, to
+  finalize AI proposals for the Provost's initiative. It is not part of the retreat.
+  There is no department business meeting; the day is entirely on curriculum.
+  This is an on-site only meeting. The group is smaller and attendance is
+  optional; every retreat session
+  is open to any teaching member of the department, full or part time.
+  The agenda (in `README.md`) puts content first (what to retire, what to introduce) and
+  course structure second, and presents the enrollments premise in the room. This is the
   department's tenth curriculum retreat.
 - Theme: an existential question about what the CS programs should become
   as AI reshapes the discipline and the professions students are prepared
@@ -15,13 +23,15 @@ repo-wide guidance.
 - The retreat begins with the foundational sequence (COMP 141, 163, 170,
   264, 271, 272, 363) and also considers how changes to that sequence
   affect the rest of the curriculum.
-- Attendees are asked to prepare a reflection using some or all of five
+- The reflection is the most important preparation and is emphasized as such
+  in the announcement and the README agenda. Attendees are asked to prepare a reflection using some or all of five
   areas: teaching practice; assessment and integrity; content and learning
   outcomes; the curriculum as a whole; and blue sky. The full prompts are
   in `draft_announcement_general.md`.
 - Proposed deadlines: reflections by Monday, December 7; additional agenda
   items or reading material by Wednesday, December 2.
-- `README.md` lists optional readings relevant to this theme.
+- `README.md` holds the retreat agenda and lists optional readings relevant
+  to this theme.
 - `draft_announcement_general.md` is the general announcement for this
   retreat; it references the readings in `README.md` as optional prep.
 
