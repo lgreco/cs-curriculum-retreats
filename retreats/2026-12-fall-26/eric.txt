@@ -1,0 +1,39 @@
+Teaching practice
+How has AI changed the way you run your classroom: lectures, labs, office hours, communication with students?
+Not too much. I tried to create more AI-proof assignments and having students show more screenshots of their exploits. I created a Gemini notebookLM for students to query but it became a bit limited and I don’t think any student used it. Fewer students come to office hours but that has been a decline over the past few years – not sure if it’s attributed to only AI.
+Do you have a stated AI policy for your courses? What has worked, and what hasn't?
+Yes, they can use but need to cite it. Some students do cite, some don’t.
+Have you used AI yourself to prepare materials, give feedback, or support students? What did you learn?
+To go through one lab since the exploit python code was not working but the C was. I don’t know enough about Python to understand why. I want to auto-grade assignments, but haven’t fully implemented that process yet.
+Assessment and integrity
+How has AI changed the way you evaluate student work and engagement?
+None for evaluation. They are all adult; they want to use an agent to run their life, kudos to them. Jokes aside, I think the very good students are still learning concepts and use AI, the F-D-C students are still not learning and are using AI. I don’t know if that’s good or not.
+Which of your assessments still measure what you intend them to, and which no longer do?
+I had a packet capture file that students had to tell me which three websites was visited. A few students gave me a website that didn’t exist in the file – proof that they used AI or they found something that didn’t exist. I know a lot of students are using AI for their buffer overflow assignment but AFAIK, they are still typing in the commands. I ask them to take screenshots and there is a timestamp.
+Have you tried alternative formats (oral exams, in-class work, process logs, code walkthroughs, version-history review)? With what results?
+No.
+Content and learning outcomes
+Have you changed the deliverables or emphasis of your courses in response to AI developments in your field? How?
+I put a bit more emphasis on the competitions for my class. They allow AI usage but they also monitor what participants do.
+What must students still be able to do without AI by the end of your course, and why?
+Understand the concepts of cybersecurity such as buffer overflow. At least at a high level how it works.
+What has become more important to teach because of AI (reading and evaluating code, specification, testing, debugging, judgment about tool output)?
+I really don’t know. I think the concepts are still important but I can’t tell if I am being biased. Do people really need to know how encryption work anymore in 5 years? Maybe, maybe not. Based on the recent leak that a root authority used a key of 4, maybe?
+Do your courses, as currently planned, prepare students for an AI-mediated workplace? What evidence do you have, from employers, alumni, or students?
+I don’t know. I would like to think so. Anecdotal evidence from a few students suggest yes.
+The curriculum as a whole
+For the foundational sequence (COMP 141, 163, 170, 264, 271, 272, 363): where should topics be added, compressed, reordered, or retired?
+I am for removing 272. It lengthens the sequence. From a biased point of view, I think 163 and 264 are still good. Just need to find a good way to teach them. 141 should go back to in person IMO.
+What changes do you want to see in the foundational sequence that will make your downstream courses more productive? (This is a question I ask at every retreat.)
+I think we need a streamlined sequence. E.g. students take X, Y, Z their first semester, followed by A, B, C their second semester. I know we have a sample sequence but do students actually follow that? I still see our majors take COMP 150 – why?
+Also more consistency among sections. That’s something I have to explain for the CAE designation – how do I make sure different instructors teach the same content. I always hear oh XYZ taught ABC but when FGH taught ABC, that was great.
+Are we consistent enough across sections and courses (AI policies, expectations, tools) that students experience a coherent program?
+Probably not. See comment above
+Do all students have equitable access to the AI tools our courses assume? Should the department provide or standardize tools?
+Short answer: probably not. I don’t assume any access to AI tools. ChatGPT is free, CoPilot is free. It’s good to use as a clutch. We don’t have the funds to pay $20/month for 500 students. I heard we have a GPU cluster bought using lab fees – can that be used for classes?
+What support would you need (time, training, tools, etc.) to make the changes you think are necessary?
+I think more time to play around with the tools. Maybe more training – I think Leo has way more experience than me and I am trying to catch up but it’s hard to not distracted with the 100 other things I need to do. Maybe some easy-to-adopt tool or process from others who are more involved? With step by step instruction or demo?
+Blue sky
+If we were free of operational legacies and administrative constraints, how would you redesign the curriculum to best serve our students?
+Include a gateway AI course and COMP 301 for all our majors. Maybe 141 should have some how-to-use-AI. That’s what I can think of in 5 minutes
+
